@@ -9,3 +9,5 @@ Problema 5: Conjetura Goldbach.
 
 
 * [Laboratorio 02](lab_02.ipynb): Regresión Lineal, R^2 y Métricas.
+
+* [Laboratorio 03](lab_02.ipynb): Manipulación de Datos.
