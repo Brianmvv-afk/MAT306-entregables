@@ -13,3 +13,5 @@ Problema 5: Conjetura Goldbach.
 * [Laboratorio 03](lab_03.ipynb): Manipulación de Datos.
 
 * [Laboratorio 04](lab_04.ipynb): Análisis de Datos.
+
+* [Laboratorio 05](lab_05.ipynb): Visualización de Datos.
