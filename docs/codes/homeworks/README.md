@@ -1,3 +1,3 @@
 # Descripción de las Tareas
 
-* [Tarea 01](Tarea 1.ipynb): Análisis de Datos usando Pandas.
+* [Tarea 01](Tarea_1.ipynb): Análisis de Datos usando Pandas.
