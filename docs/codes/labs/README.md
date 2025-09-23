@@ -15,3 +15,5 @@ Problema 5: Conjetura Goldbach.
 * [Laboratorio 04](lab_04.ipynb): Análisis de Datos.
 
 * [Laboratorio 05](lab_05.ipynb): Visualización de Datos.
+
+* [Laboratorio 06](lab_06.ipynb): Técnicas básicas de Machine Learning.
