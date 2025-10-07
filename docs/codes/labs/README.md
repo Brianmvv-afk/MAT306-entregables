@@ -19,3 +19,5 @@ Problema 5: Conjetura Goldbach.
 * [Laboratorio 06](lab_06.ipynb): Técnicas básicas de Machine Learning.
 
 * [Laboratorio 07](lab_07.ipynb): Machine Learning, Clasificación.
+
+* [Laboratorio 08](lab_08.ipynb): Machine learning no supervisado
