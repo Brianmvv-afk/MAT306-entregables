@@ -23,3 +23,5 @@ Problema 5: Conjetura Goldbach.
 * [Laboratorio 08](lab_08.ipynb): Machine learning no supervisado.
 
 * [Laboratorio 09](lab_09.ipynb): Machine learning supervisado.
+
+* [Laboratorio 10](lab_10.ipynb): Series temporales.
